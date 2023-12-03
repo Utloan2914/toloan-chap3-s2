@@ -1,0 +1,6 @@
+- what are the security issues in this website ?
+    => client can see password and protected content
+
+- how to correct using PHP
+=> Store passwords securely using password hashing.
++> Implement server-side authentication and authorization mechanisms to control access to protected content.
